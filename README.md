@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <h1 align="center">안녕하세요 👋김민석입니다</h1>
 <h3 align="center">한국의 열정적인 프론트엔드 개발자</h3>
