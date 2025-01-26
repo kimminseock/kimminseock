@@ -8,7 +8,7 @@
 
 - 🔭 Project2 [개발중인 반응형 슬라이드 Demo] (http://popola1.dothome.co.kr/bread/bakery.html)
 
-- 🌱 Project2 **바닐라 JavaScript를 사용하여 만들었으며, 반응형으로 만든 페이지입니다.**
+- 🌱 Project2 **바닐라 JavaScript를 사용하였으며, 반응형으로 만든 페이지입니다.**
 
 - 📫 연락받을 이메일 주소 **popola22@naver.com**
 
