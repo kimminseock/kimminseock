@@ -8,7 +8,7 @@
 - 🌱 리액트 가계부 소개 PDF (https://github.com/kimminseock/ReactTeamProject_pdf.git)
 - 🌱 리액트 가계부 React 코드 (https://github.com/kimminseock/Team-Project-Portfolio.git) 
   
-- 🔭 제빵 만드는 방법 소개 사이트 [개발중인 반응형 슬라이드 Demo] (http://popola1.dothome.co.kr/bread/bakery.html)
+- 🔭 제빵 만드는 방법 소개 사이트 [개발중인 반응형 제빵 만드는 방법 소개 Demo] (http://popola1.dothome.co.kr/bread/bakery.html)
 
 - 🌱 제빵 만드는 방법 소개 사이트 ** 생성형 AI 이미지, 바닐라 JavaScript를 사용하여 빵을 만드는 방법을 소개하는 사이트로 반응형으로 만든 사이트입니다.**
 - 🌱 제빵 만드는 방법 소개 사이트 코드 볼 수 있는 주소(https://github.com/kimminseock/Personal-Portfolio.git)
