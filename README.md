@@ -2,15 +2,31 @@
 <h1 align="center">안녕하세요 👋김민석입니다</h1>
 <h3 align="center">열정적인 프론트엔드 개발자</h3>
 
-- 🔭 Project1 [개발 중심 React 가계부 앱/웹 Demo] (http://popola1.dothome.co.kr/)
+- 🔭 리액트 가계부 [개발중인 React 가계부 앱/웹 Demo] (http://popola1.dothome.co.kr/)
 
-- 🌱 Project1 **2명으로 팀을 존재 React를 활용하여 가계부 웹을 만들며, 기능은 수입/지출 등록, 거래 기록 보기, 월별 수입/지출 현황 표시, 수입/지출 그래프 및 차트, 쥐 관리, 검색/필터, 심판 출력, Chat GPT API로 사용자가 물어보는 답변 제공 기능, 베이스 실시간 데이터로 저장**
+- 🌱 리액트 가계부 **2명으로 팀을 존재 React를 활용하여 가계부 웹을 만들며, 기능은 수입/지출 등록, 거래 기록 보기, 월별 수입/지출 현황 표시, 수입/지출 그래프 및 차트, 쥐 관리, 검색/필터, 심판 출력, Chat GPT API로 사용자가 물어보는 답변 제공 기능, 베이스 실시간 데이터로 저장**
+- 🌱 리액트 가계부 소개 PDF ()
+- 🌱 리액트 가계부 React 코드 볼 수 있는 주소(https://github.com/kimminseock/Team-Project-Portfolio.git) 
+  
+- 🔭 제빵 만드는 방법 소개 사이트 [개발중인 반응형 슬라이드 Demo] (http://popola1.dothome.co.kr/bread/bakery.html)
 
-- 🔭 Project2 [개발중인 반응형 슬라이드 Demo] (http://popola1.dothome.co.kr/bread/bakery.html)
+- 🌱 제빵 만드는 방법 소개 사이트 ** 생성형 AI 이미지, 바닐라 JavaScript를 사용하여 빵을 만드는 방법을 소개하는 사이트로 반응형으로 만든 사이트입니다.**
+- 🌱 제빵 만드는 방법 소개 사이트 코드<h1 align="center">안녕하세요 👋김민석입니다</h1>
+<h3 align="center">열정적인 프론트엔드 개발자</h3>
 
-- 🌱 Project2 **바닐라 JavaScript를 사용하였으며, 반응형으로 만든 페이지입니다.**
+- 🔭 리액트 가계부 [개발중인 React 가계부 앱/웹 Demo] (http://popola1.dothome.co.kr/)
+
+- 🌱 리액트 가계부 **2명으로 팀을 존재 React를 활용하여 가계부 웹을 만들며, 기능은 수입/지출 등록, 거래 기록 보기, 월별 수입/지출 현황 표시, 수입/지출 그래프 및 차트, 쥐 관리, 검색/필터, 심판 출력, Chat GPT API로 사용자가 물어보는 답변 제공 기능, 베이스 실시간 데이터로 저장**
+- 🌱 리액트 가계부 소개 PDF (https://github.com/kimminseock/ReactTeamProject_pdf.git)
+- 🌱 리액트 가계부 React 코드 (https://github.com/kimminseock/Team-Project-Portfolio.git) 
+  
+- 🔭 제빵 만드는 방법 소개 사이트 [개발중인 반응형 슬라이드 Demo] (http://popola1.dothome.co.kr/bread/bakery.html)
+
+- 🌱 제빵 만드는 방법 소개 사이트 ** 생성형 AI 이미지, 바닐라 JavaScript를 사용하여 빵을 만드는 방법을 소개하는 사이트로 반응형으로 만든 사이트입니다.**
+- 🌱 제빵 만드는 방법 소개 사이트 코드 볼 수 있는 주소(https://github.com/kimminseock/Personal-Portfolio.git)
 
 - 📫 연락받을 이메일 주소 **popola22@naver.com**
+- 📫 연락받은 번호: 010-6656-7464
 
 <p align="left">
 </p>
