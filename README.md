@@ -6,7 +6,8 @@
 
 - 🔭 **리액트 가계부** [개발중인 React 가계부 앱/웹 Demo](http://popola1.dothome.co.kr/)
 
-- 🌱 리액트 가계부 **2명으로 팀을 이루어 React를 활용하여 가계부 웹을 만들었습니다. 주요 기능은:**
+- 🌱 리액트 가계부 - **2명으로 팀을 이루어 React를 활용하여 가계부 웹을 만들었습니다.**
+- **주요기능:**
   - 수입/지출 등록 : 손쉽게 수입과 지출을 추가하고 관리
   - 거래 기록 보기 : 거래 내역을 날짜별로 확인 가능
   - 수입/지출 수정 : 수입,지출의 내용을 삭제하거나 수정하여 저장
@@ -17,22 +18,21 @@
   - Chat GPT API : 사용자가 물어보는 질문에 대해 실시간으로 자동 응답.
   - Firebase Realtime : 실시간 데이터 저장 및 동기화
 
-- 🌱 **리액트 가계부 소개 PDF** [여기서 보기](https://github.com/kimminseock/ReactTeamProject_pdf.git)
-- 🌱 **리액트 가계부 React 코드** [여기서 보기](https://github.com/kimminseock/Team-Project-Portfolio.git)
-
+- 🌱 **리액트 가계부 소개 PDF** [PDF 보기](https://github.com/kimminseock/ReactTeamProject_pdf.git)
+- 🌱 **리액트 가계부 React 코드** [코드 보기](https://github.com/kimminseock/Team-Project-Portfolio.git)
   
 - 🔭 **제빵 만드는 방법 소개 사이트** [개발중인 반응형 제빵 만드는 방법 소개 Demo](http://popola1.dothome.co.kr/bread/bakery.html)
 
-- 🌱 제빵 만드는 방법 소개 사이트 **생성형 AI 이미지를 활용하여 빵을 만드는 방법을 소개하는 사이트입니다. 이 사이트는 반응형 웹으로 제작되었습니다.**
-- 🌱 **제빵 만드는 방법 소개 사이트 코드** [여기서 보기](https://github.com/kimminseock/Personal-Portfolio.git)
+- 🌱 제빵 만드는 방법 소개 사이트 - **생성형 AI 이미지를 활용하여 빵을 만드는 방법을 소개하는 사이트입니다. 이 사이트는 반응형 웹으로 제작되었습니다.**
+- 🌱 **제빵 만드는 방법 소개 사이트 코드** [코드 보기](https://github.com/kimminseock/Personal-Portfolio.git)
 - **설명**:
 - 이 프로젝트는 바닐라 JavaScript를 사용하여, 빵을 만드는 방법을 소개하는 웹사이트입니다. 또한,
-- 생성형 AI 이미지를 사용하여 시각적으로 매력적인 콘텐츠를 제공하며, 반응형 웹 디자인을 통해
-- 다양한 디바이스에서 최적화된 환경을 제공합니다.
+  생성형 AI 이미지를 사용하여 시각적으로 매력적인 콘텐츠를 제공하며, 반응형 웹 디자인을 통해
+  다양한 디바이스에서 최적화된 환경을 제공합니다.
 
 - **기능**:
 - 반응형 디자인: 다양한 화면 크기에서 최적화된 사용자 경험 제공
-- Generative AI 이미지: 빵 만들기 과정을 보여주는 AI 생성 이미지 사용
+- 생성형 AI 이미지: 빵 만들기 과정을 보여주는 AI 생성 이미지 사용
 - JavaScript 활용: 사용자와의 상호작용을 위한 동적 콘텐츠 처리
   
 - 📫 **연락받을 이메일 주소:** popola22@naver.com
