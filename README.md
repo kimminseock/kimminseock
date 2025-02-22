@@ -18,7 +18,14 @@
   - Chat GPT API : 사용자가 물어보는 질문에 대해 실시간으로 자동 응답.
   - Firebase Realtime : 실시간 데이터 저장 및 동기화
 
-- 🌱 **리액트 가계부 소개 및 개발 담당 소개 PDF** [PDF 보기](https://github.com/kimminseock/ReactTeamProject_pdf.git)
+- 🌱 **리액트 가계부 소개 및 개발 담당 역할 소개 PDF** [PDF 보기](https://github.com/kimminseock/ReactTeamProject_pdf.git)
+- 🌱 **리액트 가계부 개발 담당 역할**
+    - 프로젝트 기획
+    - 유스케이스 작성
+    - 스토리보드
+    - 페이지 별 기능 구현 (일일, 월간, 달력, 예결산, 통계 수 입, 지출, Ai, 메뉴 바, 검색, 필터링, 총수입, 총지출, 더보기 메뉴에서 엑셀 다운받기) (더보기 메뉴)
+    - css 보조
+      
 - 🌱 **리액트 가계부 React 코드** [코드 보기](https://github.com/kimminseock/Team-Project-Portfolio.git)
   
 - 🔭 **제빵 만드는 방법 소개 사이트** [개발중인 반응형 제빵 만드는 방법 소개 Demo](http://popola1.dothome.co.kr/bread/bakery.html)
