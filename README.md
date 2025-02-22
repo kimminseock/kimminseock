@@ -19,7 +19,7 @@
   - Firebase Realtime : 실시간 데이터 저장 및 동기화
 
 - 🌱 **리액트 가계부 소개 및 개발 담당 역할 소개 PDF** [PDF 보기](https://github.com/kimminseock/ReactTeamProject_pdf.git)
-- 🌱 **리액트 가계부 개발 담당 역할**
+- 🌱 **리액트 가계부 나의 개발 담당 역할**
     - 프로젝트 기획
     - 유스케이스 작성
     - 스토리보드
