@@ -1,8 +1,8 @@
 <h1 align="center">안녕하세요 👋 김민석입니다</h1>
-<h3 align="center">열정적인 프론트엔드 개발자</h3>
+<h3 align="center">열정적인 웹 퍼블리셔</h3>
  👋 Welcome to My GitHub Portfolio!
 
-안녕하세요! 저는 프론트엔드 개발을 전문으로 하는 김민석입니다.  
+안녕하세요! 저는 웹 퍼블리셔 김민석입니다.  
 이 GitHub에는 제가 개발한 프로젝트와 학습한 내용을 정리해두었습니다.  
 주로 **React, JavaScript, HTML, CSS** 등을 활용한 프로젝트를 진행하며,  
 API 연동, 데이터 시각화, Firebase 및 기타 최신 웹 기술을 적용하는 데 관심이 많습니다.  
