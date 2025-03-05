@@ -87,7 +87,7 @@ Firebase를 이용한 CRUD 기능으로 수입, 지출을 등록/등록된 기�
 
  ### **2️⃣ 포트폴리오 웹사이트**
   
-- 🔭 **제빵 만드는 방법 소개 사이트** [개발중인 반응형 제빵 만드는 방법 소개 Demo](http://popola1.dothome.co.kr/bread/bakery.html)
+- 🔭 **제빵 만드는 방법 소개 사이트** [반응형 제빵 만드는 방법 소개](http://popola1.dothome.co.kr/bread/bakery.html)
 
 - 🌱 제빵 만드는 방법 소개 사이트 - **생성형 AI 이미지를 활용하여 빵을 만드는 방법을 소개하는 사이트입니다.**
  - **설명**:<br>
@@ -104,6 +104,17 @@ Firebase를 이용한 CRUD 기능으로 수입, 지출을 등록/등록된 기�
   - JavaScript 활용: 사용자와의 상호작용을 위한 동적 콘텐츠 처리
 - 🛠 **사용 기술:**  
   - HTML, CSS, JavaScript
+
+ ### **3️⃣ 포트폴리오 웹사이트**
+
+ - 🔭 **e_book 창작 사이트** [개발중인 e_book 사이트](http://popola1.dothome.co.kr/e_book/index.html)
+
+- 🌱 e_book 사이트 - **e_book의 창작 사이트입니다.**
+- **설명**:<br>
+  이 프로젝트는 Jquery를 사용하여, e_book 창작 웹사이트입니다. 또한,
+  현재 버튼에 대한 각각의 웹페이지와 반응형 웹으로 만드는 중입니다.<br>
+- 🛠 **사용 기술:**
+  - HTML, CSS, jQuery, Gsap 라이브러리, swiper 라이브러리, aos 라이브러리   
 - 📫 **연락받을 이메일 주소:** popola22@naver.com
 - 📫 **연락받을 번호:** 010-6656-7464
 
