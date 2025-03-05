@@ -173,6 +173,7 @@ Firebase를 이용한 CRUD 기능으로 수입, 지출을 등록/등록된 기�
 - **설명**:<br>
   이 프로젝트는 Jquery를 사용하여, e_book 창작 웹사이트입니다. 또한,
   현재 버튼, 책 이미지 등 각각의 웹페이지와 반응형 웹으로 만드는 중입니다.<br>
+- 🌱 **e_book 사이트 코드** [코드 보기](https://github.com/kimminseock/e-book)
 - 🛠 **사용 기술:**
   - HTML, CSS, jQuery, Gsap 라이브러리, swiper 라이브러리, aos 라이브러리   
 - 📫 **연락받을 이메일 주소:** popola22@naver.com
