@@ -115,7 +115,30 @@ Firebase를 이용한 CRUD 기능으로 수입, 지출을 등록/등록된 기�
   현재 버튼, 책 이미지 등 각각의 웹페이지와 반응형 웹으로 만드는 중입니다.<br>
 - 🌱 **e_book 사이트 코드** [코드 보기](https://github.com/kimminseock/e-book)
 - 🛠 **사용 기술:**
-  - HTML, CSS, jQuery, Gsap 라이브러리, swiper 라이브러리, aos 라이브러리   
+  - HTML, CSS, jQuery, Gsap 라이브러리, swiper 라이브러리, aos 라이브러리
+ 
+### **4️⃣ 미니게임**
+
+  - 🔭 **가위 바위 보 게임** [가위바위보게임](http://popola1.dothome.co.kr/rsp/index.html)
+  - 🌱 가위바위보 게임 사이트 - **가위바위보 게임 사이트입니다.**
+  - **설명**:<br>
+  미니게임은 가위바위보게임을 HTML, CSS, 바닐라 Jasvascript로 만들었습니다.<br>
+  승,패,무의 횟수도 나타내며, 승률도 나오게 만들었습니다.<br>
+  - 🌱 **가위바위보 게임 코드** [코드 보기](https://github.com/kimminseock/minigame)
+  - 🛠 **사용 기술:**
+  - HTML, CSS, Javascript
+    
+### **5️⃣ CRUD 웹사이트**
+
+  - 🔭 **Todolist 웹사이트** [Todolist 웹사이트](http://popola1.dothome.co.kr/to_do_list/index.html)
+  - 🌱 CRUD를 기반으로 만든 Todolist 웹사이트 - **Todolist 웹사이트입니다.**
+  -  **설명**:<br>
+  CRUD를 기반으로 만든 Todolist 웹 사이트입니다.<br>
+  바닐라Javascript로만 만들었으며, 로컬스토리지를 사용해 저장, 불러오는 기능이 있습니다.
+- 🌱 **Todolist 웹사이트 코드** [코드 보기](https://github.com/kimminseock/Todolist)
+- - 🛠 **사용 기술:**
+  - HTML, CSS, Javascript
+    
 - 📫 **연락받을 이메일 주소:** popola22@naver.com
 - 📫 **연락받을 번호:** 010-6656-7464
 
