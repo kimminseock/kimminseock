@@ -131,9 +131,9 @@ Firebase를 이용한 CRUD 기능으로 수입, 지출을 등록/등록된 기�
 ### **5️⃣ CRUD 웹사이트**
 
   - 🔭 **Todolist 웹사이트** [Todolist 웹사이트](http://popola1.dothome.co.kr/to_do_list/index.html)
-  - 🌱 CRUD를 기반으로 만든 Todolist 웹사이트 - **Todolist 웹사이트입니다.**
+  - 🌱 CRUD를 기반으로 만든 Todolist 웹사이트 - **Todolist 반응형 웹사이트입니다.**
   -  **설명**:<br>
-  CRUD를 기반으로 만든 Todolist 웹 사이트입니다.<br>
+  CRUD를 기반으로 만든 Todolist 반응형 웹 사이트입니다.<br>
   바닐라Javascript로만 만들었으며, 로컬스토리지를 사용해 저장, 불러오는 기능이 있습니다.
 - 🌱 **Todolist 웹사이트 코드** [코드 보기](https://github.com/kimminseock/Todolist)
 - - 🛠 **사용 기술:**
