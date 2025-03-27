@@ -119,20 +119,7 @@ Firebase를 이용한 CRUD 기능으로 수입, 지출을 등록/등록된 기�
 - 🛠 **사용 기술:**
   - HTML, CSS, jQuery, Gsap 라이브러리, swiper 라이브러리, aos 라이브러리
  
-### **4️⃣ 미니게임**
-
-  - 🔭 **가위 바위 보 게임** [개발중인 가위바위보게임](http://popola1.dothome.co.kr/rsp/index.html)
-  - 🌱 가위바위보 게임 사이트 - **가위바위보 게임 사이트입니다.**
-  - **설명**:<br>
-  미니게임은 가위바위보게임을 HTML, CSS, 바닐라 Jasvascript로 만들었습니다.<br>
-  승,패,무의 횟수도 나타내며, 승률도 나오게 만들었습니다.<br>
-  - **진행과정**:<br>
-  기능적을 보여주기 위해 표현했지만, 웹 페이지를 피그마로 디자인하며, 디자인을 직접 코드로 웹 퍼블리싱을 할 것입니다.<br>
-  - 🌱 **가위바위보 게임 코드** [코드 보기](https://github.com/kimminseock/minigame)
-  - 🛠 **사용 기술:**
-  - HTML, CSS, Javascript
-    
-### **5️⃣ CRUD 웹사이트**
+### **4️⃣ CRUD 웹사이트**
 
   - 🔭 **Todolist 웹사이트** [Todolist 웹사이트](http://popola1.dothome.co.kr/to_do_list/index.html)
   - 🌱 CRUD를 기반으로 만든 Todolist 웹사이트 - **Todolist 반응형 웹사이트입니다.**
