@@ -119,11 +119,12 @@ Firebase를 이용한 CRUD 기능으로 수입, 지출을 등록/등록된 기�
  
 ### **4️⃣ 미니게임**
 
-  - 🔭 **가위 바위 보 게임** [가위바위보게임](http://popola1.dothome.co.kr/rsp/index.html)
+  - 🔭 **가위 바위 보 게임** [가위바위보게임Demo](http://popola1.dothome.co.kr/rsp/index.html)
   - 🌱 가위바위보 게임 사이트 - **가위바위보 게임 사이트입니다.**
   - **설명**:<br>
   미니게임은 가위바위보게임을 HTML, CSS, 바닐라 Jasvascript로 만들었습니다.<br>
   승,패,무의 횟수도 나타내며, 승률도 나오게 만들었습니다.<br>
+  현재 기능적으로 표현했지만, 피그마를 이용해 ui를 설계하고 직접 디자인으로 퍼블리싱을 할것이며, 반응형으로 제작하고 있는 중입니다.<br>
   - 🌱 **가위바위보 게임 코드** [코드 보기](https://github.com/kimminseock/minigame)
   - 🛠 **사용 기술:**
   - HTML, CSS, Javascript
