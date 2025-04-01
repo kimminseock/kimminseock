@@ -91,10 +91,9 @@ Firebase를 이용한 CRUD 기능으로 수입, 지출을 등록/등록된 기�
 
 - 🌱 제빵 만드는 방법 소개 사이트 - **생성형 AI 이미지를 활용하여 빵을 만드는 방법을 소개하는 사이트입니다.**
  - **설명**:<br>
-  이 프로젝트는 바닐라 JavaScript를 사용하여, 빵을 만드는 방법을 소개하는 웹사이트입니다. 또한,
-  생성형 AI 이미지를 사용하여 시각적으로 매력적인 콘텐츠를 제공하며, 반응형 웹 디자인을 통해
-  다양한 디바이스에서 최적화된 환경을 제공합니다.<br>
-  빵 슬라이드 화면에서 더 알아보기 버튼을 클릭하면 해당 빵을 만드는 방법을 알려주는 사이트로 이동합니다.
+  이 프로젝트는 생성형 AI 이미지를 활용하여 다양한 빵의 제작 방법을 소개하는 웹사이트입니다.<br> 
+  **메인 페이지와 서브 페이지에서 CSS와 JavaScript 애니메이션을 각각 분리하여 활용**함으로써,<br> 
+  퍼블리셔로서 애니메이션 구현 방식의 다양성과 효율성을 고려한 설계를 보여주고자 했습니다.<br>
 - 🌱 **제빵 만드는 방법 소개 사이트 코드** [코드 보기](https://github.com/kimminseock/Personal-Portfolio.git)
 - **기능**:
   - 슬라이드 애니메이션: 첫 페이지의 화살표나 오른쪽 밑에 있는 썸네일을 클릭하면 슬라이드 애니메이션 제공
@@ -102,8 +101,20 @@ Firebase를 이용한 CRUD 기능으로 수입, 지출을 등록/등록된 기�
   - 반응형 디자인: 다양한 화면 크기에서 최적화된 사용자 경험 제공
   - 생성형 AI 이미지: 빵 만들기 과정을 보여주는 AI 생성 이미지 사용
   - JavaScript 활용: 사용자와의 상호작용을 위한 동적 콘텐츠 처리
+- **기술 포인트:**
+  - 🧩 **메인 페이지**: `@keyframes` 기반의 CSS 애니메이션 사용  
+    → 텍스트 등장/사라짐 효과, 슬라이드 전환, 썸네일 효과 등 모두 CSS로 표현  
+    → JavaScript는 `.next`, `.prev` 클래스를 토글하여 **애니메이션을 트리거**하는 역할만 수행
+  - ⚙️ **서브 페이지**:  
+    - 이미지의 **흑백 → 컬러 전환**을 Web Animation API(`.animate()`)를 활용해 동적으로 구현  
+    - `IntersectionObserver` 및 스크롤 이벤트를 사용하여 요소가 화면에 들어올 때 부드럽게 등장  
+    - 모바일 메뉴 전개/닫힘은 JavaScript로 스타일 직접 제어
+- **웹 접근성 및 퍼블리셔 관점 고려 사항:**
+  - HTML5 시멘틱 태그를 적극 활용한 마크업  
+  - CSS 미디어 쿼리 기반 반응형 웹 디자인 구현  
+  - 크롬, 엣지 등 주요 브라우저에서 테스트 완료 (크로스 브라우징 고려)
 - 🛠 **사용 기술:**  
-  - HTML, CSS, JavaScript
+  - HTML5, CSS3 (애니메이션 및 반응형), JavaScript (Vanilla), Web Animation API
 
  ### **3️⃣ 포트폴리오 웹사이트**
 
@@ -111,25 +122,38 @@ Firebase를 이용한 CRUD 기능으로 수입, 지출을 등록/등록된 기�
 
 - 🌱 e_book 사이트 - **e_book의 창작 사이트입니다.**
 - **설명**:<br>
-  이 프로젝트는 Jquery를 사용하여, e_book 창작 웹사이트입니다.<br>
-  PC, 모바일 반응형 웹 입니다.
-- **진행과정**:<br>
-  책 구매 페이지 등 웹 페이지를 피그마로 디자인하며, 디자인을 직접 코드로 웹 퍼블리싱을 할 것입니다.<br>
-  그리고 반응형 웹으로 만드는 중입니다.<br>
+  e-book 프로젝트는 퍼블리싱뿐 아니라 **다양한 웹 인터랙션 기능을 구현한 복합형 웹사이트**입니다.<br>  
+  특히 JavaScript, jQuery, Swiper.js, GSAP, AOS 등 여러 라이브러리와 커스텀 로직을 함께 활용하여<br>  
+  **실제 서비스 환경에 가까운 사용자 경험**을 구현하였습니다.
+- **주요 스크립트 기능:**
+  - 🔁 커스텀 메인 슬라이드: jQuery 기반 `.animate()` 슬라이더 + 버튼으로 직접 제어
+  - 🧭 카테고리 필터링: `.click()` 이벤트로 콘텐츠 영역 분리 + AOS 애니메이션 재실행
+  - 📚 다양한 Swiper 슬라이드:  
+    - 기본형, Coverflow, Cards 효과 적용  
+    - 반응형으로 자동 정렬, 브레이크포인트 기반 콘텐츠 전환
+  - ✨ AOS: 스크롤 등장 애니메이션(`fade-up`, `fade-right`, `fade-up-right`)
+  - 🎨 GSAP + ScrollTrigger: `.bg` 영역 스크롤에 따른 **색상 전환 효과**
+  - ⌨️ 타이핑 효과: 책 소개 영역에 **문장 순차 출력 인터랙션**
 - 🌱 **e_book 사이트 코드** [코드 보기](https://github.com/kimminseock/e-book)
 - 🛠 **사용 기술:**
-  - HTML, CSS, jQuery, Gsap 라이브러리, swiper 라이브러리, aos 라이브러리
- 
-### **4️⃣ CRUD 웹사이트**
+  - HTML5, CSS3, JavaScript, jQuery, Swiper.js, AOS, GSAP, ScrollTrigger
+  
+### **4️⃣ To Do List 웹앱 (Vanilla JS + LocalStorage 완전 구현)**
 
   - 🔭 **Todolist 웹사이트** [Todolist 웹사이트 보기](http://popola1.dothome.co.kr/to_do_list/index.html)
   - 🌱 CRUD를 기반으로 만든 Todolist 웹사이트 - **Todolist 반응형 웹사이트입니다.**
   -  **설명**:<br>
-  CRUD를 기반으로 만든 Todolist 반응형 웹 사이트입니다.<br>
-  바닐라Javascript로만 만들었으며, 로컬스토리지를 사용해 저장, 불러오는 기능이 있습니다.
+  이 프로젝트는 HTML, CSS, 그리고 순수 JavaScript만을 사용하여 만든 **할 일 관리 웹앱**입니다.  
+  특히 `localStorage`를 활용하여 새로고침 후에도 데이터가 유지되며, **실제 서비스에 가까운 기능 구현**을 목표로 제작하였습니다.
+  - **기능 구현 내용 (CRUD 완비):**
+    - ✏️ **할 일 추가 (Create)**: 입력 필드에서 작성 후 추가
+    - ✅ **목록 불러오기 (Read)**: `DOMContentLoaded` 시점에 저장된 항목 자동 출력
+    - 🔁 **선택 삭제 (Update/Delete)**: 체크된 항목만 삭제 가능
+    - 🧹 **전체 삭제 / 마지막 항목 삭제**: 다양한 상황에 맞춘 삭제 기능 구현
+    - 💾 **로컬스토리지 저장 기능**: 새로고침 후에도 데이터가 유지됨
 - 🌱 **Todolist 웹사이트 코드** [코드 보기](https://github.com/kimminseock/Todolist)
 - - 🛠 **사용 기술:**
-  - HTML, CSS, Javascript
+  - HTML5, CSS3, JavaScript, Web Storage API (`localStorage`)
     
 - 📫 **연락받을 이메일 주소:** popola22@naver.com
 - 📫 **연락받을 번호:** 010-6656-7464
