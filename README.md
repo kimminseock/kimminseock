@@ -11,7 +11,7 @@
 아래 프로젝트를 통해 저의 개발 역량을 확인하실 수 있습니다.
 <br>
 ### **1️⃣ 리액트 가계부**  
-- 🔭 **리액트 가계부** [개발중인 React 가계부 앱/웹 Demo](http://popola1.dothome.co.kr/)
+- 🔭 **리액트 가계부** [개발중인 React 가계부 앱/웹 Demo 보기](http://popola1.dothome.co.kr/)
 
 - 🌱 리액트 가계부 - **2명으로 팀을 이루어 React를 활용하여 가계부 웹을 만들었습니다.**
   - 가계 수입/지출을 관리할 수 있는 웹 애플리케이션입니다.  
@@ -87,7 +87,7 @@ Firebase를 이용한 CRUD 기능으로 수입, 지출을 등록/등록된 기�
 
  ### **2️⃣ 포트폴리오 웹사이트**
   
-- 🔭 **제빵 만드는 방법 소개 사이트** [반응형 제빵 만드는 방법 소개 사이트](http://popola1.dothome.co.kr/bread/bakery.html)
+- 🔭 **제빵 만드는 방법 소개 사이트** [반응형 제빵 만드는 방법 소개 사이트 보기](http://popola1.dothome.co.kr/bread/bakery.html)
 
 - 🌱 제빵 만드는 방법 소개 사이트 - **생성형 AI 이미지를 활용하여 빵을 만드는 방법을 소개하는 사이트입니다.**
  - **설명**:<br>
@@ -107,7 +107,7 @@ Firebase를 이용한 CRUD 기능으로 수입, 지출을 등록/등록된 기�
 
  ### **3️⃣ 포트폴리오 웹사이트**
 
- - 🔭 **e_book 창작 사이트** [개발중인 e_book 사이트](http://popola1.dothome.co.kr/e_book/index.html)
+ - 🔭 **e_book 창작 사이트** [개발중인 e_book 사이트 보기](http://popola1.dothome.co.kr/e_book/index.html)
 
 - 🌱 e_book 사이트 - **e_book의 창작 사이트입니다.**
 - **설명**:<br>
@@ -122,7 +122,7 @@ Firebase를 이용한 CRUD 기능으로 수입, 지출을 등록/등록된 기�
  
 ### **4️⃣ CRUD 웹사이트**
 
-  - 🔭 **Todolist 웹사이트** [Todolist 웹사이트](http://popola1.dothome.co.kr/to_do_list/index.html)
+  - 🔭 **Todolist 웹사이트** [Todolist 웹사이트 보기](http://popola1.dothome.co.kr/to_do_list/index.html)
   - 🌱 CRUD를 기반으로 만든 Todolist 웹사이트 - **Todolist 반응형 웹사이트입니다.**
   -  **설명**:<br>
   CRUD를 기반으로 만든 Todolist 반응형 웹 사이트입니다.<br>
