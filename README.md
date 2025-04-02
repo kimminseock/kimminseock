@@ -155,8 +155,8 @@ Firebase를 이용한 CRUD 기능으로 수입, 지출을 등록/등록된 기�
 - - 🛠 **사용 기술:**
   - HTML5, CSS3, JavaScript, Web Storage API (`localStorage`)
     
-- 📫 **연락받을 이메일 주소:** popola22@naver.com
-- 📫 **연락받을 번호:** 010-6656-7464
+📫 **이메일:** popola22@naver.com  
+📱 **연락처:** 010-6656-7464
 
 ---
 
@@ -173,6 +173,11 @@ Firebase를 이용한 CRUD 기능으로 수입, 지출을 등록/등록된 기�
     <td align="center"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"><br>Firebase</td>
   </tr>
 </table>
+
+## 🌱 기타 경험 및 협업 도구
+- Git / GitHub를 활용한 버전 관리 경험
+- Figma를 통한 웹 디자인 시안 확인 및 CSS 설계
+- 반응형 웹 제작 시 모바일 우선 접근 방식 경험
 
 
 
