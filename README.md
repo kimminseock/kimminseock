@@ -85,23 +85,53 @@ Firebase를 이용한 CRUD 기능으로 수입, 지출을 등록/등록된 기�
 
    해결: 최근 요청한 데이터를 저장해두고, 같은 질문이면 캐시된 데이터를 먼저 보여주도록 개선   
 
- ### **2️⃣ 포트폴리오 웹사이트**
+### **2️⃣ To Do List 웹앱 (Vanilla JS + LocalStorage 완전 구현)**
+
+  - 🔭 **Todolist 웹사이트** 👉[Todolist 웹사이트 보기](http://popola1.dothome.co.kr/to_do_list/index.html)
+    
+  - 🌱 CRUD를 기반으로 만든 Todolist 웹사이트 - **Todolist 반응형 웹사이트입니다.**
+    
+  -  **설명**:
+    
+  이 프로젝트는 HTML, CSS, 그리고 순수 JavaScript만을 사용하여 만든 **할 일 관리 웹앱**입니다.  
+  특히 `localStorage`를 활용하여 새로고침 후에도 데이터가 유지되며, **실제 서비스에 가까운 기능 구현**을 목표로 제작하였습니다.<br>
+  - **기능 구현 내용 (CRUD 완비):**
+    
+    - ✏️ **할 일 추가 (Create)**:	입력창에 내용을 작성하고 버튼 클릭으로 리스트에 등록
+    - ✅ **목록 불러오기 (Read)**: 페이지 로딩 시 저장된 할 일을 자동으로 출력
+    - 🔁 **선택 삭제 (Update/Delete)**: 체크된 항목만 개별 삭제 가능
+    - 🧹 **전체 삭제 / 마지막 항목 삭제**: 다양한 상황에 대응하는 삭제 기능
+    - 💾 **로컬스토리지 저장 기능**: 입력된 할 일은 localStorage에 저장되어 새로고침 후에도 유지
+    - 🌙 **다크 모드**: 토글 버튼으로 라이트/다크 모드 전환 가능
+    - 📱 **반응형 디자인**: 모바일/태블릿/PC 모두 최적화된 화면 제공
+     
+- 🌱 **Todolist 웹사이트 코드** [코드 보기](https://github.com/kimminseock/Todolist)
+  
+- - 🛠 **사용 기술:**
+  
+  - HTML5, CSS3, JavaScript, Web Storage API (`localStorage`)
+    
+ ### **3️⃣ 포트폴리오 웹사이트**
   
 - 🔭 **제빵 만드는 방법 소개 사이트** 👉[반응형 제빵 만드는 방법 소개 사이트 보기](http://popola1.dothome.co.kr/bread/bakery.html)
 
 - 🌱 제빵 만드는 방법 소개 사이트 - **생성형 AI 이미지를 활용하여 빵을 만드는 방법을 소개하는 사이트입니다.**
- - **설명**:<br>
+ - **설명**:
+   
   이 프로젝트는 생성형 AI 이미지를 활용하여 다양한 빵의 제작 방법을 소개하는 웹사이트입니다.<br> 
   **메인 페이지와 서브 페이지에서 CSS와 JavaScript 애니메이션을 각각 분리하여 활용**함으로써,<br> 
   퍼블리셔로서 애니메이션 구현 방식의 다양성과 효율성을 고려한 설계를 보여주고자 했습니다.<br>
 - 🌱 **제빵 만드는 방법 소개 사이트 코드** [코드 보기](https://github.com/kimminseock/Personal-Portfolio.git)
 - **기능**:
+  
   - 슬라이드 애니메이션: 첫 페이지의 화살표나 오른쪽 밑에 있는 썸네일을 클릭하면 슬라이드 애니메이션 제공
   - 더 알아보기 버튼: 더 알아보기 버튼을 클릭하면 빵 만드는 방법 소개하는 페이지로 이동
   - 반응형 디자인: 다양한 화면 크기에서 최적화된 사용자 경험 제공
   - 생성형 AI 이미지: 빵 만들기 과정을 보여주는 AI 생성 이미지 사용
   - JavaScript 활용: 사용자와의 상호작용을 위한 동적 콘텐츠 처리
+    
 - **기술 포인트:**
+  
   - 🧩 **메인 페이지**: `@keyframes` 기반의 CSS 애니메이션 사용  
     → 텍스트 등장/사라짐 효과, 슬라이드 전환, 썸네일 효과 등 모두 CSS로 표현  
     → JavaScript는 `.next`, `.prev` 클래스를 토글하여 **애니메이션을 트리거**하는 역할만 수행
@@ -109,14 +139,16 @@ Firebase를 이용한 CRUD 기능으로 수입, 지출을 등록/등록된 기�
     - 이미지의 **흑백 → 컬러 전환**을 Web Animation API(`.animate()`)를 활용해 동적으로 구현  
     - `IntersectionObserver` 및 스크롤 이벤트를 사용하여 요소가 화면에 들어올 때 부드럽게 등장  
     - 모바일 메뉴 전개/닫힘은 JavaScript로 스타일 직접 제어
+      
 - **웹 접근성 및 퍼블리셔 관점 고려 사항:**
   - HTML5 시멘틱 태그를 적극 활용한 마크업  
   - CSS 미디어 쿼리 기반 반응형 웹 디자인 구현  
   - 크롬, 엣지 등 주요 브라우저에서 테스트 완료 (크로스 브라우징 고려)
+    
 - 🛠 **사용 기술:**  
   - HTML5, CSS3 (애니메이션 및 반응형), JavaScript (Vanilla), Web Animation API
 
- ### **3️⃣ 포트폴리오 웹사이트**
+ ### **4️⃣ 포트폴리오 웹사이트**
 
  - 🔭 **e_book 창작 사이트** 👉[개발중인 e_book 사이트 보기](http://popola1.dothome.co.kr/e_book/index.html)
 
@@ -138,23 +170,6 @@ Firebase를 이용한 CRUD 기능으로 수입, 지출을 등록/등록된 기�
 - 🛠 **사용 기술:**
   - HTML5, CSS3, JavaScript, jQuery, Swiper.js, AOS, GSAP, ScrollTrigger
   
-### **4️⃣ To Do List 웹앱 (Vanilla JS + LocalStorage 완전 구현)**
-
-  - 🔭 **Todolist 웹사이트** 👉[Todolist 웹사이트 보기](http://popola1.dothome.co.kr/to_do_list/index.html)
-  - 🌱 CRUD를 기반으로 만든 Todolist 웹사이트 - **Todolist 반응형 웹사이트입니다.**
-  -  **설명**:<br>
-  이 프로젝트는 HTML, CSS, 그리고 순수 JavaScript만을 사용하여 만든 **할 일 관리 웹앱**입니다.  
-  특히 `localStorage`를 활용하여 새로고침 후에도 데이터가 유지되며, **실제 서비스에 가까운 기능 구현**을 목표로 제작하였습니다.
-  - **기능 구현 내용 (CRUD 완비):**
-    - ✏️ **할 일 추가 (Create)**: 입력 필드에서 작성 후 추가
-    - ✅ **목록 불러오기 (Read)**: `DOMContentLoaded` 시점에 저장된 항목 자동 출력
-    - 🔁 **선택 삭제 (Update/Delete)**: 체크된 항목만 삭제 가능
-    - 🧹 **전체 삭제 / 마지막 항목 삭제**: 다양한 상황에 맞춘 삭제 기능 구현
-    - 💾 **로컬스토리지 저장 기능**: 새로고침 후에도 데이터가 유지됨
-- 🌱 **Todolist 웹사이트 코드** [코드 보기](https://github.com/kimminseock/Todolist)
-- - 🛠 **사용 기술:**
-  - HTML5, CSS3, JavaScript, Web Storage API (`localStorage`)
-    
 📫 **이메일:** popola22@naver.com  
 📱 **연락처:** 010-6656-7464
 
