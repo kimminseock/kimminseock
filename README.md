@@ -1,5 +1,5 @@
 <h1 align="center">안녕하세요 👋 김민석입니다</h1>
-<h3 align="center">실무 중심으로 성장 중인 웹 퍼블리셔, 김민석입니다.</h3>
+<h3 align="center">HTML/CSS 퍼블리싱과 JavaScript 인터랙션 구현에 강점을 둔 웹 퍼블리셔 기반의 프론트엔드 개발자, 김민석입니다.</h3>
  👋 Welcome to My GitHub Portfolio!
 
 안녕하세요! 저는 김민석입니다.
