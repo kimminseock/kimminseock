@@ -166,6 +166,7 @@ Firebase를 이용한 CRUD 기능으로 수입, 지출을 등록/등록된 기�
   - ✨ AOS: 스크롤 등장 애니메이션(`fade-up`, `fade-right`, `fade-up-right`)
   - 🎨 GSAP + ScrollTrigger: `.bg` 영역 스크롤에 따른 **색상 전환 효과**
   - ⌨️ 타이핑 효과: 책 소개 영역에 **문장 순차 출력 인터랙션**
+  - 📱 **반응형 디자인**: 모바일/PC 화면 제공
 - 🌱 **e_book 사이트 코드** [코드 보기](https://github.com/kimminseock/e-book)
 - 🛠 **사용 기술:**
   - HTML5, CSS3, JavaScript, jQuery, Swiper.js, AOS, GSAP, ScrollTrigger
