@@ -126,9 +126,7 @@ Firebase를 이용한 CRUD 기능으로 수입, 지출을 등록/등록된 기�
   - Firebase Realtime : 실시간 데이터 저장 및 동기화<br>
 
 - 🛠 **사용 기술:**
-  - React, Firebase  
-  - HTML, CSS, Recharts 라이브러리 
-  - OpenAI API (ChatGPT 연동)
+  `React`, `Firebase`, `Recharts`, `XLSX`, `date-fns`, `ChatGPT API`, `HTML`, `CSS`, `JavaScript`
 - 🌱 **리액트 가계부 React 코드** [코드 보기](https://github.com/kimminseock/Team-Project-Portfolio.git)
 - 🌱 **리액트 가계부 소개 및 개발 담당 역할 소개 PDF** [PDF 보기](https://github.com/kimminseock/ReactTeamProject_pdf.git)<br>
 - 🌱 **리액트 가계부 나의 기여도**
