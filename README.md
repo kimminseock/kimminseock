@@ -86,7 +86,10 @@
 - 🌱 e_book 사이트 - **e_book의 창작 사이트입니다.**
 - **설명**:<br>
   e-book 프로젝트는 퍼블리싱뿐 아니라 **다양한 웹 인터랙션 기능을 구현한 복합형 웹사이트**입니다.<br>  
-  특히 JavaScript, jQuery, Swiper.js, GSAP, AOS 등 여러 라이브러리와 커스텀 로직을 함께 활용하여<br>  
+  특히 JavaScript, jQuery, Swiper.js, GSAP, AOS 등 여러 라이브러리와 커스텀 로직을 함께 활용하여<br>
+  **최근 본 히스토리**항목의 책들을 클리하면 e북을 읽을 수 있는 서브페이지로 이동<br>
+  **리뷰**는 todolist를 이용하여 쓸 수 있게 하였으며, 로컬스토리지를 사용하여 저장이 가능하게 했습니다.<br>
+  e북 책은 PDF.js를 이용하여 책의 내용은 PDF 샘플을 사용했습니다.<br> 
   **실제 서비스 환경에 가까운 사용자 경험**을 구현하였습니다.
 - **주요 스크립트 기능:**
   - 🔁 커스텀 메인 슬라이드: jQuery 기반 `.animate()` 슬라이더 + 버튼으로 직접 제어
@@ -97,10 +100,11 @@
   - ✨ AOS: 스크롤 등장 애니메이션(`fade-up`, `fade-right`, `fade-up-right`)
   - 🎨 GSAP + ScrollTrigger: `.bg` 영역 스크롤에 따른 **색상 전환 효과**
   - ⌨️ 타이핑 효과: 책 소개 영역에 **문장 순차 출력 인터랙션**
+  - 📄 PDF.js 활용: PDF 포맷의 책 내용 제공
   - 📱 **반응형 디자인**: 모바일/PC 화면 제공
 - 🌱 **e_book 사이트 코드** [코드 보기](https://github.com/kimminseock/e-book)
 - 🛠 **사용 기술:**
-  - HTML5, CSS3, JavaScript, jQuery, Swiper.js, AOS, GSAP, ScrollTrigger
+  - HTML5, CSS3, JavaScript, jQuery, Swiper.js, AOS, GSAP, ScrollTrigger, PDF.js
 
  ### **4️⃣ 리액트 가계부**  
 - 👉 [리액트 가계부 Demo 바로가기](http://popola1.dothome.co.kr/)
