@@ -81,7 +81,7 @@
 
  ### **3️⃣ 포트폴리오 웹사이트**
 
- - 🔭 **e_book 창작 사이트** 👉[개발중인 e_book 사이트 보기](http://popola1.dothome.co.kr/e_book/index.html)
+ - 🔭 **e_book 창작 사이트** 👉[개발중인 e_book 사이트 보기](http://popola1.dothome.co.kr/ebook/index.html)
 
 - 🌱 e_book 사이트 - **e_book의 창작 사이트입니다.**
 - **설명**:<br>
